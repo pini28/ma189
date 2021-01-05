@@ -1,6 +1,7 @@
 ---
 title: "Math 189: Introduction"
-output: html_notebook
+output: pdf_document
+
 ---
 
 # I. Overview
